@@ -1,40 +1,4 @@
 import turtle
-# #Tom.setheading(90)
-# Tom.speed("fastest")
-#
-#
-# def forward():
-#     Tom.forward(10)
-#
-#
-# def backward():
-#     Tom.backward(10)
-#
-#
-# def right():
-#     #Tom.right(10)
-#     new = Tom.heading() + 10
-#     Tom.setheading(new)
-#
-#
-# def left():
-#     new = Tom.heading() + 10
-#     Tom.setheading(new)
-#     #Tom.left(90)
-#
-# def cls():
-#     Tom.clear()
-#     Tom.penup()
-#     Tom.home()
-#     Tom.pendown()
-#
-#
-# sc.listen()
-# sc.onkey(key='w', fun=forward)
-# sc.onkey(key='s', fun=backward)
-# sc.onkey(key='d', fun=right)
-# sc.onkey(key='a', fun=left)
-# sc.onkey(key='c', fun=cls)
 from turtle import Turtle, Screen
 import random
 #Tom = Turtle()
